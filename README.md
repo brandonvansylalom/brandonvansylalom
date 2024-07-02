@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 IT Projects: </h2>
 
-- <b>Active Directory Home Lab w/ Powershell:</b>
+- <b>Active Directory Home Lab Projects w/ Powershell:</b>
+  - <b> [Setting up Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab/blob/main/README.md)
 <h2>👨‍💻 Certifications: </h2>
 
 <h2>📺 Popular YouTube Videos that I reference/like from tech content creator Josh Madakor:</h2>
