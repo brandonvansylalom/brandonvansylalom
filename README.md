@@ -5,7 +5,8 @@ I am a United States Marine Corps and United States Army veteran, with experienc
 <h2>👨‍💻 Various IT/Cybersecurity Projects: </h2>
 
 - <b>Active Directory Home Lab Projects:</b>
-  - <b> [Getting started up Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab)
+  - <b> [Getting started up with Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab)
+  - <b> [Using Active Directory to install RAS/NAT]
 <h2>📄 Education/Certifications: </h2>
 
 - <b> [CompTIA Security+](https://www.credly.com/badges/a67ea5ad-13b8-43cf-a808-2cf7d8f0e383/linked_in_profile)
