@@ -5,6 +5,8 @@
 - <b>Active Directory Home Lab Projects w/ Powershell:</b>
   - <b> [Setting up Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab)
 <h2>👨‍💻 Certifications: </h2>
+  
+</b></b>
 
 <h2>📺 Popular YouTube Videos that I reference/like from tech content creator Josh Madakor:</h2>
 
