@@ -6,7 +6,7 @@ I am a United States Marine Corps and United States Army veteran, with experienc
 
 - <b>Active Directory Home Lab Projects:</b>
   - <b> [Getting started up with Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab)
-  - <b> [Using Active Directory to install RAS/NAT/DHCP](https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-Setup)
+  - <b> [Using Active Directory to install RAS/NAT/DHCP](https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-DHCP-Setup)
 <h2>📄 Education/Certifications: </h2>
 
 - <b> [CompTIA Security+](https://www.credly.com/badges/a67ea5ad-13b8-43cf-a808-2cf7d8f0e383/linked_in_profile)
