@@ -7,6 +7,8 @@ I am a United States Marine Corps and United States Army veteran, with experienc
 - <b>Active Directory Home Lab Projects:</b>
   - <b> [Getting started up with Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab)
   - <b> [Using Active Directory to install RAS/NAT/DHCP](https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-DHCP-Setup)
+  - <b> [Using Windows PowerShell to create users on Active Directory](https://github.com/brandonvansylalom/Active-Directory-Lab-PowerShell-Users-Clients)
+
 <h2>📄 Education/Certifications: </h2>
 
 - <b> [CompTIA Security+](https://www.credly.com/badges/a67ea5ad-13b8-43cf-a808-2cf7d8f0e383/linked_in_profile)
@@ -18,13 +20,12 @@ I am a United States Marine Corps and United States Army veteran, with experienc
   
 </b></b>
 
-<h2>📺 Popular YouTube Videos within tech that I enjoy:</h2>
+<h2>📺 Popular YouTube Videos that I enjoy:</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Is the Security+ Still a Good Certification to Get? | The Problem with Cybersecurity Certifications](https://www.youtube.com/watch?v=aKH6nmvyINA)
 
 <h2> 🤳 Connect with me:</h2>
 
