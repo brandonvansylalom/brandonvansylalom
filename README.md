@@ -2,11 +2,11 @@
 
 I am a United States Marine Corps and United States Army veteran, with experience in transportation, logistics, and small unit/line infantry tactics. I started my tech career after college in a corporate physical SOC as a vendor at the Amazon corporate offices in Seattle, WA. Most of the work pertained to physical security, investigations, and generic corporate security management/responses but has gotten me interested into tech because of that. Since then, I've gained experience in working with computers, radios, phone systems and other psuedo technology spaces while working within that capacity. I have since then transitioned into two Tier 1 equivalent help desk positions, with my previous role in an help desk technician at an MSP and current role as a Technical Support Analyst at a healthcare facility in Alaska. My desire is transition into the next level of IT/Cybersecurity, particularly interested in systems administration, cloud computing, or some other realm of cybersecurity (SOC Analyst, GRC etc). I hope to use the GitHub platform to share ideas, present ideal projects, and learn/network from like minded others. :)
 
-<h2>👨‍💻 Various IT/Cybersecurity Projects: </h2>
+<h2>👨‍💻 IT/Cybersecurity Projects: </h2>
 
 - <b>Active Directory Home Lab Projects:</b>
   - <b> [Getting started up with Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab)
-  - <b> [Using Active Directory to install RAS/NAT](https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-Setup)
+  - <b> [Using Active Directory to install RAS/NAT/DHCP](https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-Setup)
 <h2>📄 Education/Certifications: </h2>
 
 - <b> [CompTIA Security+](https://www.credly.com/badges/a67ea5ad-13b8-43cf-a808-2cf7d8f0e383/linked_in_profile)
