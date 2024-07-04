@@ -15,7 +15,7 @@ I am a United States Marine Corps and United States Army veteran, with experienc
   - <b> [Launch and host a static website on Amazon S3](https://github.com/brandonvansylalom/AWS-HomeLab-Project-S3)
   - <b> [Create a Virtual Private Cloud (VPC) and an EC2 Instance on AWS](https://github.com/brandonvansylalom/AWS-HomeLab-Project-VPCandEC2Instance)
 
-<b>Cybersecurity - SIEM Project using Microsoft Sentinel:</b>
+<b>Azure Cloud - Home Lab Projects:</b>
 
 <h2>📄 Education/Certifications: </h2>
 
