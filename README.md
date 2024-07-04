@@ -8,7 +8,7 @@ I am a United States Marine Corps and United States Army veteran, with experienc
   - <b> [Getting started up with Active Directory using VirtualBox](https://github.com/brandonvansylalom/ActiveDirectoryLab)
   - <b> [Using Active Directory to install RAS/NAT/DHCP](https://github.com/brandonvansylalom/Active-Directory-RAS-NAT-DHCP-Setup)
   - <b> [Using Windows PowerShell to create users on Active Directory](https://github.com/brandonvansylalom/Active-Directory-Lab-PowerShell-Users-Clients)
-  - <b> [Creating Windows PC clients via virtual machine on VirtualBox](https://github.com/brandonvansylalom/Active-Directory-HomeLab-Creating-Windows-Clients)
+  - <b> [Creating Windows PC clients to join to a domain](https://github.com/brandonvansylalom/Active-Directory-HomeLab-Creating-Windows-Clients)
 
 <h2>📄 Education/Certifications: </h2>
 
