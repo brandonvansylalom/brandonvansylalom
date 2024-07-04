@@ -12,6 +12,8 @@ I am a United States Marine Corps and United States Army veteran, with experienc
 
 <b>AWS Home Lab Projects:</b>
 
+  - <b> [Launch and host a static website on Amazon S3](https://github.com/brandonvansylalom/AWS-HomeLab-Project-S3)
+
 <h2>📄 Education/Certifications: </h2>
 
 - <b> [CompTIA Security+](https://www.credly.com/badges/a67ea5ad-13b8-43cf-a808-2cf7d8f0e383/linked_in_profile)
