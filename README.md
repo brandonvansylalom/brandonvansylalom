@@ -17,6 +17,8 @@ I am a United States Marine Corps and United States Army veteran, with experienc
 
 <b>Azure Cloud - Home Lab Projects:</b>
 
+  - <b> [Create a virtual machine and deploy a web server on Azure](https://github.com/brandonvansylalom/Azure-HomeLab-Project-VM-WebServer)
+
 <h2>📄 Education/Certifications: </h2>
 
 - <b> [CompTIA Security+](https://www.credly.com/badges/a67ea5ad-13b8-43cf-a808-2cf7d8f0e383/linked_in_profile)
@@ -28,7 +30,7 @@ I am a United States Marine Corps and United States Army veteran, with experienc
   
 </b></b>
 
-<h2>📺 Popular YouTube Videos that I enjoy:</h2>
+<h2>📺 Popular YouTube Videos that I like:</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
