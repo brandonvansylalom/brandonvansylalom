@@ -10,10 +10,12 @@ I am a United States Marine Corps and United States Army veteran, with experienc
   - <b> [Using Windows PowerShell to create users on Active Directory](https://github.com/brandonvansylalom/Active-Directory-Lab-PowerShell-Users-Clients)
   - <b> [Creating Windows PC clients to join to a domain](https://github.com/brandonvansylalom/Active-Directory-HomeLab-Creating-Windows-Clients)
 
-<b>AWS Home Lab Projects:</b>
+<b>AWS Cloud - Home Lab Projects:</b>
 
   - <b> [Launch and host a static website on Amazon S3](https://github.com/brandonvansylalom/AWS-HomeLab-Project-S3)
   - <b> [Create a Virtual Private Cloud (VPC) and an EC2 Instance on AWS](https://github.com/brandonvansylalom/AWS-HomeLab-Project-VPCandEC2Instance)
+
+<b>Cybersecurity - SIEM Project using Microsoft Sentinel:</b>
 
 <h2>📄 Education/Certifications: </h2>
 
