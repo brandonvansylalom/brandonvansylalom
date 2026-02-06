@@ -28,7 +28,7 @@ I am a United States Marine Corps and United States Army veteran, with experienc
 
 <h2>📄 Education/Certifications: </h2>
 
-- <b> [CompTIA SecurityX)][https://www.credly.com/badges/d492044c-6da7-46ff-a5f2-79f15c58dc27/linked_in_profile]
+- <b> [CompTIA SecurityX)]https://www.credly.com/badges/d492044c-6da7-46ff-a5f2-79f15c58dc27/linked_in_profile
 - <b> [CompTIA PenTest+](https://www.credly.com/badges/87570848-9415-4ec6-a40a-fda58500a0e5/linked_in_profile)
 - <b> [CompTIA CySA+](https://www.credly.com/badges/bf357004-997f-4ed5-a8d1-2306f6e8d79f/linked_in_profile)
 - <b> [CompTIA Security+](https://www.credly.com/badges/a67ea5ad-13b8-43cf-a808-2cf7d8f0e383/linked_in_profile)
